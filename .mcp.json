@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "33crm": {
+      "type": "http",
+      "url": "https://crmapi.trimed33.com/api/mcp"
+    }
+  }
+}
