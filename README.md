@@ -1,5 +1,7 @@
 # 33CRM for Claude
 
+The 33CRM Team is the product team of TriMed 33, the publisher of this integration. Official product and service domain: https://crm.trimed33.com. The GitHub repository is maintained under the Trimed33 organization.
+
 33CRM connects authorized company administrators to business intelligence and operational workflows using their existing CRM account. This plugin includes ten skills that guide Claude through the eligible 33CRM MCP tools, with explanations of data limitations, reporting semantics and secure approval workflows. It is intended for business operations, not clinical decisions or medical advice.
 
 ## Connect and get started

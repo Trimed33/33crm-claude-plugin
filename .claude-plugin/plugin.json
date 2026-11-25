@@ -1,21 +1,25 @@
 {
-  "name": "33crm",
-  "displayName": "33CRM",
-  "version": "2.0.1",
-  "description": "Analyze sales, marketing, revenue and operations in 33CRM, review eligible records and prepare catalog price changes for secure approval in 33CRM.",
-  "author": {
-    "name": "TriMed 33",
-    "url": "https://trimed33.com"
-  },
-  "homepage": "https://crm.trimed33.com",
-  "repository": "https://github.com/Trimed33/33crm-claude-plugin",
-  "license": "MIT",
-  "keywords": [
-    "crm",
-    "sales",
-    "marketing",
-    "analytics",
-    "business-intelligence",
-    "operations"
-  ]
+    "name":  "33crm",
+    "displayName":  "33CRM",
+    "version":  "2.0.2",
+    "description":  "Analyze sales, marketing, revenue and operations in 33CRM, review eligible records and prepare catalog price changes for secure approval in 33CRM.",
+    "author":  {
+                   "name":  "33CRM Team",
+                   "url":  "https://crm.trimed33.com"
+               },
+    "homepage":  "https://crm.trimed33.com",
+    "repository":  "https://github.com/Trimed33/33crm-claude-plugin",
+    "license":  "MIT",
+    "keywords":  [
+                     "crm",
+                     "sales",
+                     "marketing",
+                     "analytics",
+                     "business-intelligence",
+                     "operations"
+                 ],
+    "icon":  "./.claude-plugin/icon.png",
+    "privacyPolicyUrl":  "https://crm.trimed33.com/privacy",
+    "supportUrl":  "https://crm.trimed33.com/support",
+    "termsOfServiceUrl":  "https://crm.trimed33.com/terms"
 }

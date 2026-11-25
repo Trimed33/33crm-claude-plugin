@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.2
+
+- Add the existing 33CRM brand icon and explicit privacy, support and terms URLs.
+- Clarify the author as the 33CRM product team of TriMed 33.
+- No changes to skills, MCP tools or server configuration.
+
 ## 2.0.1
 
 - Initial Claude distribution adapted from the 33CRM 2.0.1 OpenAI package.
